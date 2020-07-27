@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">能動的三分タイマー</string>
+    <string name="_00_00">00:00</string>
+    <string name="start">スタート</string>
+    <string name="cooking">Cooking</string>
+    <string name="reset">リセット</string>
+</resources>

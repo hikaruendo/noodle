@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577418201732",
+    "firebase_url": "https://noodletimer-19250.firebaseio.com",
+    "project_id": "noodletimer-19250",
+    "storage_bucket": "noodletimer-19250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577418201732:android:af5ac957dd8e84a2",
+        "android_client_info": {
+          "package_name": "com.nodotekisanpun.noodletimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577418201732-8lvcl9b4f441h6qmc8bg221v654hi1jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5W_A8renllPsVsqyKqPmlYirZDtr_gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577418201732-8lvcl9b4f441h6qmc8bg221v654hi1jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
